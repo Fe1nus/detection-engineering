@@ -13,7 +13,3 @@ references to the reporting or documentation it is based on.
 Queries are provided as-is and should be tested and validated in your
 environment before deployment. Detection coverage, performance, and results may
 vary depending on available telemetry and configuration.
-
-## License
-
-[Apache 2.0](LICENSE)
